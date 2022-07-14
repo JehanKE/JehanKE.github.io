@@ -63,6 +63,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+Repo has been dployed as a GitHub page. 
+In order to access it please check:
+https://jehanke.github.io/
+To deploy merge up to date code to main branch and run:
+npm run deploy
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
