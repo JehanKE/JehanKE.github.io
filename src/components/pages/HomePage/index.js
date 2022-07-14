@@ -2,7 +2,10 @@ import './index.css';
 
 const HomePage = () => {
     return (
-        <div>Home Page 2nd Deployment</div>
+        <div>
+            Hi I'm Jehan!
+            Figured a regular resume was too boring.
+        </div>
     )
 }
 
