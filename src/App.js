@@ -1,9 +1,10 @@
 import './App.css';
+import HomePage from './components/pages/HomePage';
 
 function App() {
   return (
     <div className="App">
-      Jehan Test Working Branch
+      <HomePage/>
     </div>
   );
 }
